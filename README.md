@@ -10,7 +10,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 Installaði ElementaryOS 32-bita á Thinkpad vélina mína. Bjó til bootable USB lykil með UNetbootin(sem bootar ekki nema hann sé FAT32 frekar en NTFS, fór mestur imi í að fatta það). Bootaði Thinkpad vélinni af honum og setti up clean install af ElementaryOS. Einstaklega simple og þægilegt.
 
-![alt ElementaryOS Boot](file:///home/raggi/Downloads/boot.jpg)
+![alt ElementaryOS Boot](https://dl.dropboxusercontent.com/u/18960898/eleboot.jpg)
 
 ## 2. Uppsetning á vim && git
 
